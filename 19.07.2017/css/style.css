@@ -1,0 +1,34 @@
+#s002{
+	height: 480px;
+	position: relative;
+	text-align: center;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.6;
+}
+#s002 .innerS1 {
+	margin-left: -4%;
+}
+#s002 .innerS1 span {
+	background: #31ddb7;
+	width: 5%;
+	height: 2px;
+	position: absolute;
+	left: 45.7%;
+}
+#s002 .margBot{
+	margin-bottom: 15px;
+}
+#s002 .innerS1 p {
+	margin-top: 30px;
+}
+#s002 .box ,#s002 .innerS1 p {
+	margin-left: -15px;
+	letter-spacing: 0.3px;
+    color: #6b7c93;
+}
+#s002 .box i , .box h3 {
+	color: black;
+}
+#s002 .innerS1 , #s002 .innerS2{
+	margin-top: 40px;
+}
